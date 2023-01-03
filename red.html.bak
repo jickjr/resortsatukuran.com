@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html> 
+<head> </head>
+
+<link rel="stylesheet"type="text/css"href="style.css"/>
+
+<body> 
+<div class="k">
+<div class="topnav">
+<a href="red.html">HOME</a>
+<a href="News.html">NEWS</a>
+<a href="contact.html">CONTACT</a>
+<a href="about.html">ABOUT</a>
+</div>
+</div>
+
+
+<h2 class = "g"> Come and Visit Kambal Spring Resort </h2>
+
+<p><b> Welcome to Kambal Spring Resort</b></p>
+
+<p class = "t">“Dreaming of making your way to a one-of-a-kind travel destination? Imagine yourself being immersed in a lush paradise serenaded with the calming sounds of beach waves and the soft rhythm of the trees dancing with the breeze. With Dakak Resort and Properties, you are at the right place. With all medium access to the sea, air, and land, one can reach us with ease. 
+
+ 
+
+Generously situated in the southern region of the Philippines, lies a countryside resort fortress that is a host to plenty of adventure and leisure activities. Dakak Resort and Properties prides itself on top-of-the-class amenities and facilities right at its doorstep. 
+
+You are also in for a treat because we offer 13 different restaurants to choose from, with varieties of cuisines that will surely satisfy your taste and cravings. 
+
+ 
+
+Dakak Resort and Properties offers all this fun and excitement together within the comfort of your own spacious and private bedrooms with a touch of class and elegance. Also, you can upgrade your status by staying at our Villa Angelina Luxury Suite villas sitting atop the cliffs. With a scenic view gazing at the pristine white sand paradise below and wonderful greeneries around, you will surely enjoy the decadence of royalty. With its residence at Taguilon, Dapitan City, Zamboanga Del Norte, a geographical location that tactfully eludes the typhoon belt, it is truly an ideal travel destination all year round. Come to Dakak Resort and Properties and be amazed by the Southern Paradise for every traveler.”</p>
+
+<div class="img">
+</div>
+
+
+</body>
+
+
+
+</html>

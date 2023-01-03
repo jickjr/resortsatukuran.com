@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html> 
+<head> </head>
+
+<link rel="stylesheet"type="text/css"href="style.css"/>
+
+<body> 
+<div class="topnav">
+<a href="red.html">HOME</a>
+<a href="News.html">NEWS</a>
+<a href="contact.html">CONTACT</a>
+<a href="about.html">ABOUT</a>
+</div>
+
+<br>
+<br>
+
+<form>
+Username :<input type= "text" placeholder = "Username" name = "firstname"/>
+<br>
+<br>
+Password : <input type = "password" placeholder = "Password" name= "lastname"/>
+<br>
+<br>
+<textarea rows = "5" cols = "50" name = "description">
+Enter description
+</textarea>
+<br>
+<br>
+SUBJECT : </br><input type = "radio" name = "gender"/> Math
+		<input type = "radio" name = "gender"/> Physics
+		<br>
+		<br>
+<input type = "checkbox" name = "Math" value = "on"/> Math
+<input type = "checkbox" name =  "Physics" value = "on"/> physics
+
+<br>
+<br>
+
+Phone :<input type = "phone" placeholder = "09542635415" name ""/>
+<br>
+<br>
+<select Name = "dropdown">
+<option value = "Math" selected> Math </option>
+<option value = "Physics" selected> Physics </option>
+<br><input type = "file" name = "fileupload" accept = "image"/>
+<br>
+<br>
+<input type = "Submit" name = "Submit" value= "Submit"/>
+<input type = "Reset" name = "Reset" value= "Reset"/>
+<input type = "Button" name = "Button" value= "OK"/>
+<input type = "Image" name = "Imagebutton" src ="C:\Users\Admin\Desktop\rickly\a.jpg">
+</form>
+ </body>
+
+
+</html>
